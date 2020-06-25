@@ -13,7 +13,7 @@ hello，Ladies and Gentleman”，我是本次值班导游，我叫小博，大�
 ### <script>元素
 js如何跟html页面结合呢？
 
-<script>就是一个管道，js跟html流通的管道，是向HTML页面插入js的主要方法。
+\<script\>就是一个管道，js跟html流通的管道，是向HTML页面插入js的主要方法。
 
 六个属性：
 - async：可选，表示立即下载脚本。
